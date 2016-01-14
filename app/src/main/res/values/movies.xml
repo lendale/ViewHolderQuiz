@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="movie_titles_array">
+        <item>Star Trek Beyond</item>
+        <item>Kung Fu Panda 3</item>
+        <item>The Divergent Series: Allegiant</item>
+        <item>The Huntsman: Winter\'s War</item>
+        <item>Captain America: Civil War</item>
+        <item>The Conjuring 2: The Endfield Experiment</item>
+        <item>A Perfect Day</item>
+        <item>Fifty Shades of Black</item>
+        <item>Batman Vs. Superman</item>
+        <item>The Jungle Book</item>
+        <item>Amityville: The Awakening</item>
+        <item>400 Days</item>
+        <item>Angry Birds</item>
+        <item>Finding Dory</item>
+        <item>Central Intellegence</item>
+    </string-array>
+
+    <string-array name="movie_genre_array">
+        <item>Action</item>
+        <item>Animation</item>
+        <item>Action</item>
+        <item>Action</item>
+        <item>Action</item>
+        <item>Thriller</item>
+        <item>Comedy</item>
+        <item>Comedy</item>
+        <item>Action</item>
+        <item>Adventure</item>
+        <item>Suspense</item>
+        <item>Science Fiction</item>
+        <item>Animation</item>
+        <item>Animation</item>
+        <item>Action</item>
+    </string-array>
+
+    <string-array name="movie_desc_array">
+        <item>The the third installment in Paramount’s rebooted Star Trek franchise with Chris Pine and Zachary Quinto in the lead roles. </item>
+        <item>When Po\'s long-lost panda father suddenly reappears, the reunited duo travels to a secret panda paradise to meet scores of hilarious new panda characters.</item>
+        <item>After the earth-shattering revelations of The Divergent Series: Insurgent, Tris must escape with Four and go beyond the wall enclosing Chicago.</item>
+        <item>Long before the evil Queen Ravenna (Theron) was thought vanquished by Snow White’s blade, she watched silently as her sister, Freya (Blunt), suffered a heartbreaking betrayal and fled their kingdom.</item>
+        <item>Marvel’s Captain America: Civil War finds Steve Rogers leading the newly formed team of Avengers in their continued efforts to safeguard humanity.</item>
+        <item>Reprising their roles, Oscar nominee Vera Farmiga and Patrick Wilson star as Lorraine and Ed Warren, who, in one of their most terrifying paranormal investigations, travel to north London to help a single mother raising four children alone in a house plagued by malicious spirits.</item>
+        <item>The setting is 1995, “somewhere in the Balkans.” Over the course of 24 breathless hours, Mambrú (Benicio del Toro), leads his team of humanitarians—including hard-bitten, wisecracking veteran B (Tim Robbins) and new recruit Sophie (Melanie Thierry)—as they deal with a most unexpected crisis, layers of bureaucratic red tape, and the reappearance of Mambrú’s old flame (Olga Kurylenko).</item>
+        <item>Get ready for an erotic spoof comedy as Fifty Shades of Black takes you through a maze of hard, rough, and pre-mature encounters from inside of Mr. Christian Black\'s playroom. </item>
+        <item>The greatest Super Heroes in the world - Superman and Batman face off.</item>
+        <item>The Jungle Book is an all-new live-action epic adventure about Mowgli (newcomer Neel Sethi), a man-cub who’s been raised by a family of wolves.</item>
+        <item>Jennifer Jason Leigh will play a single mother who moves her three kids into the Amityville house.</item>
+        <item>A psychological sci-fi film centering on four astronauts who are sent on a simulated mission to a distant planet to test the psychological effects of deep space travel.</item>
+        <item>A feature-length movie based on the popular downloadable game in which birds try to attack pigs who stole their eggs.</item>
+        <item>Finding Dory takes place about a year after the first film, and features returning favorites Marlin, Nemo and the Tank Gang, among others.</item>
+        <item>After reconnecting with an old friend via Facebook, an accountant is thrown into the world of international espionage.</item>
+    </string-array>
+</resources>

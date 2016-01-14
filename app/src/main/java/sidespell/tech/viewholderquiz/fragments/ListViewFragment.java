@@ -5,6 +5,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.ListView;
 
 import sidespell.tech.viewholderquiz.R;
 
@@ -13,6 +14,7 @@ import sidespell.tech.viewholderquiz.R;
  */
 public class ListViewFragment extends Fragment {
 
+    private ListView mListView;
     public static ListViewFragment newInstance() {
         return new ListViewFragment();
     }
@@ -20,6 +22,10 @@ public class ListViewFragment extends Fragment {
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
                              Bundle savedInstanceState) {
-        return inflater.inflate(R.layout.fragment_listview, container, false);
+
+        View view = inflater.inflate(R.layout.fragment_listview, container, false);
+        mListView = (ListView) view.findViewById(R.id.listView);
+
+        return view;
     }
 }
